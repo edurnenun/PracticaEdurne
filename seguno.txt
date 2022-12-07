@@ -3,5 +3,7 @@ Lista Compra
 Zumo
 huevos
 mantequila
-harina
 fiambre
+harina
+cafe
+
